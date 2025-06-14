@@ -1,0 +1,18 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Camisa Básica",
+      "descricao": "Camisa confortável de algodão",
+      "preco": 49.9,
+      "imagem": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "nome": "Calça Jeans",
+      "descricao": "Calça jeans azul escuro",
+      "preco": 89.9,
+      "imagem": "https://via.placeholder.com/150"
+    }
+  ]
+}
