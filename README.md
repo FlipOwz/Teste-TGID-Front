@@ -12,28 +12,6 @@ Este é um projeto simples de loja online criado com **React.js** e **JSON Serve
 
 ---
 
-## 🧱 Estrutura do Projeto
-
-loja-online/
-├── public/
-├── src/
-│ ├── components/
-│ │ └── Navbar.js
-│ ├── context/
-│ │ └── CarrinhoContext.js
-│ ├── pages/
-│ │ ├── Home.js
-│ │ ├── Produto.js
-│ │ ├── Carrinho.js
-│ ├── App.js
-│ ├── index.js
-│ └── Pages.css
-├── dbTeste.json
-└── README.md
-
-
----
-
 ## 📦 Como Rodar o Projeto
 
 ### 1. Clone o repositório
