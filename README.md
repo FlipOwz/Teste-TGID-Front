@@ -50,17 +50,25 @@ npm start
       "nome": "Camisa Básica",
       "descricao": "Camisa confortável de algodão",
       "preco": 49.9,
-      "imagem": "https://via.placeholder.com/250x250"
+      "imagem": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
     },
     {
       "id": 2,
       "nome": "Calça Jeans",
-      "descricao": "Calça jeans azul escuro",
+      "descricao": "Calça jeans azul claro",
       "preco": 89.9,
-      "imagem": "https://via.placeholder.com/250x250"
+      "imagem": "https://images.unsplash.com/photo-1582552938357-32b906df40cb?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 3,
+      "nome": "Tênis Esportivo",
+      "descricao": "Tênis confortável para o dia a dia",
+      "preco": 129.9,
+      "imagem": "https://images.unsplash.com/photo-1600269452121-4f2416e55c28?q=80&w=930&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ]
 }
+
 ```
 
 ### 🛒 Funcionalidades
